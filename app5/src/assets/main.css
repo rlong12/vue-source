@@ -1,0 +1,20 @@
+.form-example {
+    margin: 10px;
+}
+
+fieldset {
+    margin: 5px;
+}
+
+.datalists {
+    margin: 5px;
+}
+
+label {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+input {
+    margin: 3px;
+}
